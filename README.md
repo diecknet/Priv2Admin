@@ -4,7 +4,7 @@ The idea is to "translate" Windows OS privileges to a path leading to:
 3. availability threat,
 4. just a mess.
 
-Privileges are listed and explained at: https://docs.microsoft.com/en-us/windows/win32/secauthz/privilege-constants
+Privileges are listed and explained at: https://learn.microsoft.com/en-us/windows/win32/secauthz/privilege-constants
 
 If the goal can be achieved multiple ways, the priority is
 1. Using built-in commands
